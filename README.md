@@ -1,2 +1,4 @@
 # KAUSHALYA 
-AI powered skill gap analysis and employment tracking platform
+AI-Powered Skilling, Employment & Impact Tracking Platform
+
+
